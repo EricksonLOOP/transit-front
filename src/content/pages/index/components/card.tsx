@@ -1,4 +1,3 @@
-import { col } from "framer-motion/client";
 import { ReactElement } from "react";
 
 export default function CardNegocios({ title, text, icon, color }: { title: string, text: string, icon: ReactElement, color: string }) {
